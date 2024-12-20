@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "FishCreekServer", "FishCreekServer\FishCreekServer.njsproj", "{46D2826F-2A81-4F31-93A1-950F8C65770B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46D2826F-2A81-4F31-93A1-950F8C65770B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D2826F-2A81-4F31-93A1-950F8C65770B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D2826F-2A81-4F31-93A1-950F8C65770B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D2826F-2A81-4F31-93A1-950F8C65770B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CC54C89-7D34-4AB3-80D2-AD4FCCE8D766}
+	EndGlobalSection
+EndGlobal

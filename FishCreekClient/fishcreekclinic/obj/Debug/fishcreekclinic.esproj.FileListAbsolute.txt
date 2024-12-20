@@ -1,0 +1,2 @@
+C:\Users\drago\Desktop\Classes\CSCI 221\FishCreekClinic\FishCreekClinic\obj\Debug\fishcreekclinic.esproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\Classes\CSCI 221\FishCreekFinal\FishCreekClient\FishCreekClinic\obj\Debug\fishcreekclinic.esproj.CoreCompileInputs.cache

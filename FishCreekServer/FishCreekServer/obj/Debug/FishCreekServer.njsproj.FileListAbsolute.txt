@@ -1,0 +1,6 @@
+C:\Users\drago\Desktop\Classes\CSCI 221\FishCreekServer\FishCreekServer\obj\Debug\FishCreekServer.njsproj.AssemblyReference.cache
+C:\Users\drago\Desktop\Classes\CSCI 221\FishCreekServer\FishCreekServer\obj\Debug\FishCreekServer.njsproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\Classes\CSCI 221\FishCreekServer\FishCreekServer\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\drago\Desktop\Classes\CSCI 221\FishCreekFinal\FishCreekServer\FishCreekServer\obj\Debug\FishCreekServer.njsproj.AssemblyReference.cache
+C:\Users\drago\Desktop\Classes\CSCI 221\FishCreekFinal\FishCreekServer\FishCreekServer\obj\Debug\FishCreekServer.njsproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\Classes\CSCI 221\FishCreekFinal\FishCreekServer\FishCreekServer\bin\Microsoft.NodejsTools.WebRole.dll
